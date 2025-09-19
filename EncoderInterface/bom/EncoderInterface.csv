@@ -1,0 +1,7 @@
+"null","Sourced","Placed","References","Value","Footprint","Quantity"
+1,"","","C1","0.1u","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",1
+2,"","","R3, R6","1k","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",2
+3,"","","D1, D2, D3","D","D_MiniMELF_Handsoldering",3
+4,"","","U1","6N137SDM","SMT_6N137_OSI-M",1
+5,"","","J1","Conn_01x02_Pin","JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical",1
+6,"","","J2","Conn_01x03_Pin","JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical",1
