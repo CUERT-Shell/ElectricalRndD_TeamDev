@@ -1,8 +1,8 @@
 # RC NodeMcu 32s shield
 
-![](Doc\TopView.png)
+![](Doc/TopView.png)
 
-![](Doc\BottomView.png)
+![](Doc/BottomView.png)
 
 
 * Onboard Buck Converter (12V--->5V)
