@@ -17,7 +17,7 @@
 #### Warning
 Never Connect usb to the esp32, while plugging in the 12V input (At least remove the buck enable header)
 
-production : gerbers for production and bom
-bom : html interactive bom
-LIB : component library used
-Doc : 3d model , images , schematic (pdf) , etc
+production : gerbers for production and bom  
+bom : html interactive bom  
+LIB : component library used  
+Doc : 3d model , images , schematic (pdf) , etc  s
